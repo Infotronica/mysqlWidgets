@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/coffee.ico</file>
+        <file>img/infotronicaH.png</file>
+        <file>img/logo-mysql-horizontal.png</file>
+        <file>vid/lg.messenger-typing-preloader.gif</file>
+    </qresource>
+</RCC>
